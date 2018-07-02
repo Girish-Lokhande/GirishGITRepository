@@ -1,0 +1,7 @@
+---
+applications:
+- name: SpringBootEx
+  memory: 1024M
+  host: springboot
+  domain: cfapps.us30.hana.ondemand.com
+  buildpack: java_buildpack
